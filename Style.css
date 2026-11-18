@@ -11,6 +11,10 @@
 #Logo {
  height: 100px;
  width: 100px;
+    Background-color: rgb(28, 15, 0);
+    border: 10px;
+    padding: 10px;
+    border-radius: 10px;
 }
 header {
      color: rgb(163, 142, 119);
@@ -20,21 +24,31 @@ header {
     align-items: center;
     justify-content: space-between;
 }
-
-.Páginas{
+.logo {
     display: flex;
-    list-style: none;
-    gap: 3px;
-    padding: 0;
-    background-color:rgb(247, 218, 186) ;
+    align-items: center;
+    gap: 12px;
+}
+.logo h2 {
+    font-size: 20px;
+    letter-spacing: 2px;
 }
 
-.Páginas li a {
-    display: block;
-    text-decoration: none;
-    border: 2px solid black;
-    border-radius: 10px;
-    background-color: lightblue;
-    padding: 10px 20px;
-    color: black;
+.logo p {
+    font-size: 11px;
+    color: rgb(107, 82, 55);
+    letter-spacing: 1px;
+}
+nav {
+    display: flex;
+    gap: 30px;
+}
+
+nav a {
+    color: rgb(107, 82, 55);
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color:rgb(163, 142, 119) ;
 }
