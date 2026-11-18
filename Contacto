@@ -3,27 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="Style.css">
-    <title></title>
+     <link rel="stylesheet" href="Style.css">
+    <title>Escuela de Ajedrez Palito</title>
 
 </head>
 <body>
     <header>
-        <img id="Logo" src="https://static.vecteezy.com/system/resources/previews/055/047/789/non_2x/black-king-chess-piece-free-png.png" alt="Logo de la Escuela">
-         <h1>
-            Escuela de Ajedrez Palito
-        </h1>
-        <ul class="Páginas">
-            <li>
-                <a href="index.html">Inicio</a>  
-            </li>
-            <li>
-                <a href="Dónde Encontrarnos">Dónde Encontrarnos</a>  
-            </li>
-            <li>
+         <div class="logo">
+       <img id="Logo" src="https://static.vecteezy.com/system/resources/previews/055/047/789/non_2x/black-king-chess-piece-free-png.png" alt="Logo de la Escuela">
+                <div>
+       <h2>
+            PALITO
+        </h2>
+        <p>ESCUELA DE AJEDREZ</p>
+                </div>
+         </div>
+         <nav>
+                <a href="index.html">Inicio</a>
                 <a href="Inscripción">Inscripciones</a>  
-            </li>
-        </ul>
+                <a href="Dónde Encontrarnos">Dónde Encontrarnos</a>  
+                <a href="Contacto">Contacto</a>  
+         </nav>
+
     </header>
     <main>
 
