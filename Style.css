@@ -9,3 +9,9 @@
  height: 100px;
  width: 100px;
 }
+h1{
+    border: 3px solid rgb(77, 51, 24);
+    border-radius: 40px;
+    background-color: rgb(77, 51, 24);
+    padding: 10px;
+}
