@@ -12,7 +12,7 @@
         <h1>
             Escuela de Ajedrez Palito
         </h1>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlKFLRuf2-3tfL2p_b42ejJWQTfy1niIXFSi6-leBu6A&s=10" alt="Logo de la Escuela">
+        <img id="Logo" src="https://static.vecteezy.com/system/resources/previews/055/047/789/non_2x/black-king-chess-piece-free-png.png" alt="Logo de la Escuela">
                 <ul>
             <li>
                 <a href="index.html">Inicio</a>  
@@ -26,7 +26,7 @@
         </ul>
     </header>
     <main>
-        
+
     </main>
 </body>
 </html>
