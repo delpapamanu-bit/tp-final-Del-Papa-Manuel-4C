@@ -18,8 +18,18 @@ h1{
     padding: 10px;
 }
 .Páginas{
-     border: 2px solid black;
-    border-radius: 15px;
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    padding: 0;
+}
+
+.Páginas li a {
+    display: block;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
     background-color: lightblue;
-    padding: 20px;
+    padding: 10px 20px;
+    color: black;
 }
