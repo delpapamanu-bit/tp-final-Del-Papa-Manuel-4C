@@ -31,13 +31,16 @@ header {
     gap: 12px;
 }
 .logo h2 {
+ background-color: rgb(77, 51, 24);
     font-size: 20px;
     letter-spacing: 2px;
+    color: rgb(163, 142, 119)
 }
 
 .logo p {
+     background-color: rgb(77, 51, 24);
     font-size: 11px;
-    color: rgb(107, 82, 55);
+    color:rgb(163, 142, 119);
     letter-spacing: 1px;
 }
 nav {
@@ -47,7 +50,8 @@ nav {
 }
 
 nav a {
-    color: rgb(107, 82, 55);
+   
+    color: rgb(163, 142, 119);
     transition: 0.3s;
 }
 
