@@ -50,7 +50,7 @@ nav {
 }
 
 nav a {
-   
+   background-color: rgb(77, 51, 24);
     color: rgb(163, 142, 119);
     transition: 0.3s;
 }
