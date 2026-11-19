@@ -147,3 +147,29 @@ footer p {
     background-color: rgb(28, 15, 0);
     color: rgb(163, 142, 119);
 }
+
+
+
+
+
+
+
+.location_inicio p {
+    color: rgb(163, 142, 119);
+    font-size: 17px;
+    max-width: 520px;}
+    .detalles{ 
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    }
+    .detalles p {
+    color: rgb(163, 142, 119);
+    font-size: 14px;}
+    .detalles strong {
+    color: white;}
+    iframe {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    background-color: rgb(28, 15, 0);}
