@@ -187,13 +187,13 @@ footer p {
         margin: 10px;
         padding: 10px;
     }
-    .course-card img:hover{
+    .course-card:hover img{
   width: 110%;
     height: 230px;
     }
-   .Texto-de-course-grid:hover h3{
+    .course-card:hover h3{
     color: rgb(163, 142, 119);    
 }
-   .Texto-de-course-grid:hover p{
+   .course-card:hover p{
     color:white;    
 }
