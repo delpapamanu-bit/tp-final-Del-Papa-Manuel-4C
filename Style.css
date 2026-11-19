@@ -140,3 +140,10 @@ footer p {
 .Inscripción h2 {
     color: rgb(28, 15, 0);
 }
+.Inscripción ol li{
+ 
+    border: 10px;
+    border-radius: 45px;
+    background-color: rgb(28, 15, 0);
+    color: rgb(163, 142, 119);
+}
