@@ -186,7 +186,6 @@ footer p {
         display: inline-block;
         margin: 10px;
         padding: 10px;
-      align-items: center;
     }
     .course-card:hover img{
   width: 110%;
