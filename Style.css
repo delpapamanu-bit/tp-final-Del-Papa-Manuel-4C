@@ -191,3 +191,9 @@ footer p {
   width: 110%;
     height: 230px;
     }
+   .Texto-de-course-grid:hover h3{
+    color: rgb(163, 142, 119);    
+}
+   .Texto-de-course-grid:hover p{
+    color:white;    
+}
