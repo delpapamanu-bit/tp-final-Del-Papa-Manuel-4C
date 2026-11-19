@@ -179,7 +179,9 @@ footer p {
 
     .localizar{
         font-size: xx-large;
-        border: 10px dotted rgb(28, 15, 0);
+        border: 5px dotted rgb(28, 15, 0);
         border-radius:80px;
         display: inline-block;
+        padding: auto;
+        margin: 10px;
     }
