@@ -187,3 +187,6 @@ footer p {
         margin: 10px;
         padding: 10px;
     }
+    .course-card img:hover{
+size-adjust:200px, 110%;
+    }
