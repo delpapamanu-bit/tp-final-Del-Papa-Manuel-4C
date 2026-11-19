@@ -180,14 +180,13 @@ footer p {
 
 
     .localizar{
-        display: flex;
-        align-items: center;
         font-size: xx-large;
         border: 5px dotted rgb(28, 15, 0);
         border-radius:80px;
         display: inline-block;
         margin: 10px;
         padding: 10px;
+      align-items: center;
     }
     .course-card:hover img{
   width: 110%;
